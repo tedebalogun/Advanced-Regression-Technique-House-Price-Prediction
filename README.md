@@ -1,0 +1,2 @@
+# Advanced-Regression-Technique-House-Price-Prediction
+The objective of this project is to predict sale of house price in Ames, Iowa. The dataset was obtained from Kaggle and machine learning algorithm was applied using python to clean, transform variables to normal form, and prepared the dataset for modeling. The analysis and visualizations show that the overall house quality, age of the house, heating quality, kitchen quality  and house size per square feet are among the key variables that influence the sale price.
